@@ -42,7 +42,6 @@ ___
     - `01_EDA_and_Data_PreProcessing.ipynb` - Notebook detailing the data acquisition, data cleaning and feature engineering steps
     - `02_XGBoost_Baseline_Model.ipynb` - Notebook running the XGBoost baseline model for subsequent comparison
     - `03_H2O_AutoML_with_MLflow.ipynb` - Notebook showing the full H2O AutoML training and MLflow tracking process, along with model inference to get predictions  
-- `/submissions` - Folder containing CSV files for Kaggle submission to retrieve model accuracy scores
 
 ___
 ## References
